@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devops-first-project</name>
 	<description>Demo project for Spring Boot for DevOps</description>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>
